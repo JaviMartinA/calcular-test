@@ -1,0 +1,22 @@
+#titulo{
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+}
+#form{
+    display: flex;
+    width: 25%;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 40%;
+}
+#formb{
+    margin-top: 20px;
+}
+#respuesta,#boton{
+    margin-left: 40%;
+}
+
+body{
+    font-family: "Century Gothic",Verdana,sans-serif;
+}
